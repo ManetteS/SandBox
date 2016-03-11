@@ -3,7 +3,7 @@ package prime2016;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello again, Word !");
+		System.out.println("Hello again, World.");
 
 	}
 
